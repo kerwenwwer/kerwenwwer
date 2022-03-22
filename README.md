@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Kerwin Tsai!](https://adarshreddyash.github.io) 
+### Hey 👋🏽, I'm [Kerwin Tsai!]() 
 
 <br />
 
