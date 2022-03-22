@@ -9,7 +9,7 @@ Hi, I'm Kerwin Tsai, a Computer Scienece student 🚀 from Taiwan 🇹🇼, curr
 - 📝[Resume](https://docs.google.com/document/d/1Bl5xJVmSMsSndL2O9kRUbALzVfTVW5xWbppRkE5BhBA/edit?usp=sharing)
 - 📫 How to reach me: kerwintsai@pm.me;
 - 👨🏽‍💻 I’m currently working on [Kubeflow pipeline](https://gitlab.com/jerry-ai-platform/pipeline-example);
-- 👨🏽‍💻 I also has a very little tool [pwrstat-exporter](https://github.com/kerwenwwer/pwrstat-exporter) a prometheus exporter to monitor Cyberpower UPS;
+- 👨🏽‍💻 I also have a very little tool [pwrstat-exporter](https://github.com/kerwenwwer/pwrstat-exporter), a Prometheus exporter to monitor Cyberpower UPS;
 - 🌱 I’m currently learning Kubernetes, ML-pipeline; 
 - 🤔 [Sanke DQN](https://gitlab.eglo.ga/kerwin/snake_dqn) and [allegro-game-dqn](https://github.com/kerwenwwer/allegro-game-dqn) are the [Allegro](https://liballeg.org/) based game with DQN auto-player.
 - 😃 [MemoryBank](https://gitlab.eglo.ga/software_studio_lab/memorybank-frontend) is an WebApp that help you to memorize, and use rewards and punishments to urge users.
