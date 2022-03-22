@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Kerwin Tsai!](https://kerwenwwer.github.io/document-blog/#/) 
 
-<br />
-Hi, I'm Kerwin Tsai, a master student majoring in Computer Science, 🚀 from Taiwan 🇹🇼, currently work in  [@NTHU-LSALAB](https://github.com/NTHU-LSALAB), I'm a Blogger 🙍🏽‍♂️ [MYBLOG](https://kerwenwwer.github.io/document-blog/#/), ☕ At the same time I am also an amateur photographer.
+
+Hi, I'm Kerwin Tsai, a master student majoring in Computer Science, 🚀 from Taiwan 🇹🇼, currently work in [@NTHU-LSALAB](https://github.com/NTHU-LSALAB), I'm a Blogger 🙍🏽‍♂️ [MYBLOG](https://kerwenwwer.github.io/document-blog/#/), ☕ At the same time I am also an amateur photographer.
 
 Photo in Instagram: [@alloy_uo](https://www.instagram.com/alloy_uo/)
 
