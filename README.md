@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Kerwin Tsai!](https://kerwenwwer.github.io/document-blog/#/) 
 
 
-Hi, I'm Kerwin Tsai, a master student majoring in Computer Science, 🚀 from Taiwan 🇹🇼, currently work in [@NTHU-LSALAB](https://github.com/NTHU-LSALAB), I'm a Blogger 🙍🏽‍♂️ [MYBLOG](https://kerwenwwer.github.io/document-blog/#/), ☕ At the same time I am also an amateur photographer.
+Hi, I'm Kerwin Tsai, a master student majoring in Computer Science, 🚀 from Taiwan 🇹🇼, currently work in [@NTHU-LSALAB](https://github.com/NTHU-LSALAB), I'm a Blogger 🙍🏽‍♂️ [MYBLOG](https://kerwenwwer.github.io/document-blog/#/).
 
 Photo in Instagram: [@kerwintsai_photo](https://www.instagram.com/kerwintsai_photo/)
 
@@ -19,7 +19,7 @@ Photo in Instagram: [@kerwintsai_photo](https://www.instagram.com/kerwintsai_pho
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
