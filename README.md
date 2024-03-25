@@ -11,6 +11,7 @@ Hi, I'm Kerwin Tsai, 🚀 from Taiwan 🇹🇼.
 - 📫 How to reach me: kerwintsai@pm.me;
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerwenwwer)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerwenwwer)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
